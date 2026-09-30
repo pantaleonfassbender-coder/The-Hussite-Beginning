@@ -1,0 +1,101 @@
+{
+ "lede": "From the Decree of Kutná Hora to the battle of Vítkov. Stations say what modern accounts agree on; as the modules are carried, each station is linked to the passage that tells it.",
+ "stations": [
+  {
+   "d": "18 January 1409",
+   "side": "crown",
+   "titel": "The Decree of Kutná Hora",
+   "text": "King Wenceslas IV gives the Bohemian nation three votes and the foreign nations one at the university of Prague; the German masters and students leave for Leipzig. Hus becomes rector. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "1410",
+   "side": "council",
+   "titel": "Wyclif's books burned",
+   "text": "Archbishop Zbyněk has Wyclif's books burned in Prague; Hus, who goes on preaching at the Bethlehem Chapel, is excommunicated. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "1412",
+   "side": "reform",
+   "titel": "The indulgences",
+   "text": "Hus attacks the indulgences sold for John XXIII's war against Naples; three young men who contradict the preachers are beheaded. Hus is placed under a heavier excommunication and leaves Prague for the countryside. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "1413",
+   "side": "reform",
+   "titel": "De ecclesia",
+   "text": "In exile Hus writes his treatise on the Church, and preaches in Czech to the people of southern Bohemia. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "November 1414",
+   "side": "council",
+   "titel": "The council opens",
+   "text": "The Council of Constance opens under John XXIII. Hus arrives on 3 November with Sigismund's safe conduct; on 28 November he is arrested. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "20 March 1415",
+   "side": "council",
+   "titel": "The pope's flight",
+   "text": "John XXIII escapes from Constance in disguise; the council declares itself above the pope (Haec sancta, 6 April) and later deposes him. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "5–8 June 1415",
+   "side": "reform",
+   "titel": "The hearings",
+   "text": "Hus is heard three times before the council; he is asked to abjure articles he says he never held. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "6 July 1415",
+   "side": "council",
+   "titel": "The sentence and the fire",
+   "text": "The council condemns Hus as a heretic, degrades him from the priesthood and hands him to the secular arm; he is burned the same day outside the walls, and his ashes are thrown into the Rhine. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "2 September 1415",
+   "side": "hussites",
+   "titel": "The lords' protest",
+   "text": "Lords of Bohemia and Moravia seal a letter of protest to the council. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "30 May 1416",
+   "side": "reform",
+   "titel": "Jerome of Prague",
+   "text": "Hus's friend Jerome, who had recanted and withdrawn his recantation, is burned at Constance. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "11 November 1417",
+   "side": "council",
+   "titel": "One pope again",
+   "text": "The council elects Martin V; the great schism is over. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "30 July 1419",
+   "side": "hussites",
+   "titel": "The defenestration",
+   "text": "After a procession led by the preacher Jan Želivský, councillors of the New Town of Prague are thrown from the town hall windows. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "16 August 1419",
+   "side": "crown",
+   "titel": "Wenceslas dies",
+   "text": "King Wenceslas IV dies; the heir is his brother Sigismund. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "March 1420",
+   "side": "hussites",
+   "titel": "Tábor and the crusade",
+   "text": "Radicals found Tábor in southern Bohemia; the pope proclaims a crusade against the heretics of Bohemia, and Jan Žižka's wagons hold at Sudoměř. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "14 July 1420",
+   "side": "hussites",
+   "titel": "Vítkov",
+   "text": "Žižka's men hold the hill of Vítkov above Prague against Sigismund's crusading army. (Modern accounts; module planned.)"
+  },
+  {
+   "d": "28 July 1420",
+   "side": "crown",
+   "titel": "A king crowned in a castle",
+   "text": "Sigismund has himself crowned king of Bohemia in the cathedral of Prague castle, while the city below holds against him. The Four Articles of Prague are proclaimed that summer: the free preaching of the word, the chalice for the laity, a Church without worldly property, and the punishment of mortal sins. (Modern accounts; module planned.)"
+  }
+ ]
+}

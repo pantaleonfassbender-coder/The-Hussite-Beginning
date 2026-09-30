@@ -1,0 +1,69 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "mladonovice",
+   "side": "reform",
+   "kurz": "Peter of Mladoňovice: the trial and death of Hus",
+   "warum": "The eyewitness account of the hearings of June 1415, the degradation and the burning of 6 July, by the secretary of Hus's protector Jan of Chlum: the core of the story.",
+   "quelle": "Relatio de Mag. Joannis Hus causa, in F. Palacký, Documenta Mag. Joannis Hus (Prague 1869)."
+  },
+  {
+   "id": "letters",
+   "side": "reform",
+   "kurz": "Hus's letters from Constance",
+   "warum": "The prisoner's own voice, in Latin and Czech, to his friends in Bohemia and in Constance: the safe conduct, the hearings, the offer to recant, the last days.",
+   "quelle": "Palacký, Documenta (1869); English: The Letters of John Hus, tr. H. B. Workman and R. M. Pope (London 1904)."
+  },
+  {
+   "id": "council",
+   "side": "council",
+   "kurz": "The council's acts: safe conduct, Haec sancta, the sentence",
+   "warum": "Sigismund's safe conduct, the decree that set the council above the pope, the articles against Hus and his sentence, in the council's own record.",
+   "quelle": "Palacký, Documenta (1869); H. von der Hardt, Magnum oecumenicum Constantiense concilium (Frankfurt and Leipzig 1697–1700)."
+  },
+  {
+   "id": "deecclesia",
+   "side": "reform",
+   "kurz": "Hus, De ecclesia (1413)",
+   "warum": "The treatise from which the council drew most of the articles it condemned: what the Church is, and why a pope who does not follow Christ is not its head.",
+   "quelle": "Historia et monumenta Ioannis Hus atque Hieronymi Pragensis (Nuremberg 1558/1715); English: De ecclesia. The Church, tr. D. S. Schaff (New York 1915). Excerpts."
+  },
+  {
+   "id": "richental",
+   "side": "council",
+   "kurz": "Ulrich Richental's chronicle of the council",
+   "warum": "A citizen of Constance watches the council come to his town: the pope's flight, the arrival of the Bohemian, the burning outside the walls, in German.",
+   "quelle": "Ulrichs von Richental Chronik des Constanzer Concils 1414 bis 1418, ed. M. R. Buck (Tübingen 1882)."
+  },
+  {
+   "id": "kutnahora",
+   "side": "crown",
+   "kurz": "The Decree of Kutná Hora (1409)",
+   "warum": "King Wenceslas gives the Bohemian nation three votes at the university of Prague, and the German masters leave: where the quarrel begins.",
+   "quelle": "Palacký, Documenta (1869)."
+  },
+  {
+   "id": "lords",
+   "side": "hussites",
+   "kurz": "The protest of the Bohemian lords (2 September 1415)",
+   "warum": "Four hundred and more lords of Bohemia and Moravia seal a letter to the council: Hus was a good and just man, and his death a wrong done to the kingdom.",
+   "quelle": "Palacký, Documenta (1869)."
+  },
+  {
+   "id": "jerome",
+   "side": "reception",
+   "kurz": "Poggio on the death of Jerome of Prague (1416)",
+   "warum": "A humanist at the council writes to Leonardo Bruni about the eloquence and the burning of Hus's friend, as if he had watched a Roman die.",
+   "quelle": "Poggio Bracciolini, letter to Leonardo Bruni, 30 May 1416, in a public-domain edition to be identified."
+  },
+  {
+   "id": "brezova",
+   "side": "hussites",
+   "kurz": "Laurence of Březová's Hussite chronicle",
+   "warum": "The Prague chronicler of the revolution: the defenestration of 30 July 1419, the Four Articles of Prague, Žižka, the crusade and the battle of Vítkov.",
+   "quelle": "Vavřinec z Březové, Kronika husitská, ed. J. Goll, Fontes rerum Bohemicarum V (Prague 1893)."
+  }
+ ],
+ "missing": []
+}
