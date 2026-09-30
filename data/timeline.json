@@ -26,10 +26,20 @@
    "text": "In exile Hus writes his treatise on the Church, and preaches in Czech to the people of southern Bohemia. (Modern accounts; module planned.)"
   },
   {
+   "d": "18 October 1414",
+   "side": "crown",
+   "titel": "The safe conduct",
+   "text": "At Speyer, Sigismund's chancery issues the letter that takes Hus 'into our protection and that of the holy empire', with free passage to Constance and back.",
+   "cite": "#/text/mladonovice/journey/1",
+   "citeLabel": "Mlad. Journey [1]"
+  },
+  {
    "d": "November 1414",
    "side": "council",
    "titel": "The council opens",
-   "text": "The Council of Constance opens under John XXIII. Hus arrives on 3 November with Sigismund's safe conduct; on 28 November he is arrested. (Modern accounts; module planned.)"
+   "text": "The Council of Constance opens under John XXIII. Hus arrives on 3 November with Sigismund's safe conduct; on 28 November two bishops come to his lodging, and he does not come back.",
+   "cite": "#/text/mladonovice/arrest/4",
+   "citeLabel": "Mlad. Arrest [4]"
   },
   {
    "d": "20 March 1415",
@@ -41,13 +51,17 @@
    "d": "5–8 June 1415",
    "side": "reform",
    "titel": "The hearings",
-   "text": "Hus is heard three times before the council; he is asked to abjure articles he says he never held. (Modern accounts; module planned.)"
+   "text": "Hus is heard three times before the council in the Franciscan refectory. On 7 June Sigismund defends his safe conduct to Hus's face; on 8 June, thinking Hus's friends have gone, he tells the council not to believe a recantation.",
+   "cite": "#/text/mladonovice/hearings/2",
+   "citeLabel": "Mlad. Hearings [2]"
   },
   {
    "d": "6 July 1415",
    "side": "council",
    "titel": "The sentence and the fire",
-   "text": "The council condemns Hus as a heretic, degrades him from the priesthood and hands him to the secular arm; he is burned the same day outside the walls, and his ashes are thrown into the Rhine. (Modern accounts; module planned.)"
+   "text": "The council condemns Hus as a heretic in the cathedral, degrades him from the priesthood and gives him to the secular arm; he is burned the same day outside the walls, and his ashes are thrown into the Rhine.",
+   "cite": "#/text/mladonovice/sentence/4",
+   "citeLabel": "Mlad. Sentence [4]"
   },
   {
    "d": "2 September 1415",

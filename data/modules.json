@@ -1,13 +1,15 @@
 {
- "shipped": [],
- "planned": [
+ "shipped": [
   {
    "id": "mladonovice",
+   "datei": "mladonovice",
    "side": "reform",
    "kurz": "Peter of Mladoňovice: the trial and death of Hus",
-   "warum": "The eyewitness account of the hearings of June 1415, the degradation and the burning of 6 July, by the secretary of Hus's protector Jan of Chlum: the core of the story.",
-   "quelle": "Relatio de Mag. Joannis Hus causa, in F. Palacký, Documenta Mag. Joannis Hus (Prague 1869)."
-  },
+   "zk": "Mlad.",
+   "warum": "The eyewitness account of Hus's party, from Palacký's Documenta (1869), read against the page images with a working translation: Sigismund's safe conduct, the arrest of 28 November 1414, the king's words at the hearings of June 1415 ('do not believe him if he recants'), the sentence, the degradation and the burning of 6 July."
+  }
+ ],
+ "planned": [
   {
    "id": "letters",
    "side": "reform",

@@ -61,7 +61,7 @@ function overview() {
     <div class="panel"><h3>Why was Hus at Constance?</h3>
       <p>Because he had appealed from the pope to Christ, and because the king of the Romans wanted the council to clear Bohemia of the name of heresy before he inherited it. Hus went to be heard; the council meant to judge him.</p></div>
     <div class="panel"><h3>What was a safe conduct worth?</h3>
-      <p>Sigismund's letter promised Hus free passage to Constance and back. Hus was arrested within a month of his arrival. The council held that no promise bound it to a heretic; the Bohemian lords held that the king's word had been broken.</p></div>
+      <p>Sigismund's letter promised Hus free passage to Constance and back (<a href="#/text/mladonovice/journey/1">Mlad. Journey [1]</a>). Hus was arrested within a month of his arrival (<a href="#/text/mladonovice/arrest/4">Mlad. Arrest [4]</a>). The king told Hus to his face that he had kept his word, since the letter promised a hearing; the Bohemian lords held that it had been broken (<a href="#/text/mladonovice/hearings/1">Mlad. Hearings [1]</a>).</p></div>
     <div class="panel"><h3>How did Prague answer?</h3>
       <p>With the chalice for the laity, a protest sealed by more than four hundred lords, the defenestration of 30 July 1419, the Four Articles of Prague, and the wagon forts of Jan Žižka.</p></div>
     <div class="panel"><h3>Can the story be played?</h3>
