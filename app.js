@@ -97,7 +97,8 @@ async function reader([id, secId, unitN]) {
   const sec = t.sections.find(s => s.id === secId) || t.sections[0];
   const bilingual = sec.units.some(u => u.orig);
   const lang = bilingual ? langPref : "en";
-  const origName = LANGS[t.orig_sprache] || "Original";
+  const langs = [...new Set(sec.units.filter(u => u.orig).map(u => u.lang || t.orig_sprache))];
+  const origName = langs.length === 1 ? (LANGS[langs[0]] || "Original") : langs.map(l => LANGS[l] || l).join(" or ");
   view.innerHTML = `
     <p class="fine"><a href="#/texts">← All texts</a></p>
     <span class="tag">${side(m.side)} ${esc(t.jahr)} · cited as ${esc(sec.zk)} [n]</span>
@@ -119,9 +120,9 @@ async function reader([id, secId, unitN]) {
       <div class="${cls}" id="u${u.n}">
         <div class="num"><a href="#/text/${id}/${sec.id}/${u.n}" title="Cite as ${esc(sec.zk)} [${u.n}]">[${u.n}]</a>
           ${u.pg ? `<span class="pg" title="${esc(t.pg_label || "")} page.line">${esc(t.pg_label || "")} ${esc(u.pg)}</span>` : ""}</div>
-        <div>${u.titel ? `<h4>${esc(u.titel)}</h4>` : ""}
+        <div>${u.titel ? `<h4>${esc(u.titel)}${u.lang && langs.length > 1 ? ` <span class="fine">(${esc(LANGS[u.lang] || u.lang)})</span>` : ""}</h4>` : ""}
           <div class="cols ${showO && showE ? "" : "one"}">
-            ${showO ? `<div class="origcol"><div class="orig" lang="${esc(t.orig_sprache)}"${t.rtl ? ' dir="rtl"' : ""}>${esc(u.orig)}</div>${u.tr ? `<div class="translit">${esc(u.tr)}</div>` : ""}</div>` : ""}
+            ${showO ? `<div class="origcol"><div class="orig" lang="${esc(u.lang || t.orig_sprache)}"${t.rtl ? ' dir="rtl"' : ""}>${esc(u.orig)}</div>${u.tr ? `<div class="translit">${esc(u.tr)}</div>` : ""}</div>` : ""}
             ${showE ? `<div class="text">${esc(u.en)}</div>` : ""}
           </div></div>
         ${u.note ? `<div class="note">${esc(u.note)}</div>` : ""}

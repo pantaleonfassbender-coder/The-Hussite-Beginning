@@ -7,16 +7,17 @@
    "kurz": "Peter of Mladoňovice: the trial and death of Hus",
    "zk": "Mlad.",
    "warum": "The eyewitness account of Hus's party, from Palacký's Documenta (1869), read against the page images with a working translation: Sigismund's safe conduct, the arrest of 28 November 1414, the king's words at the hearings of June 1415 ('do not believe him if he recants'), the sentence, the degradation and the burning of 6 July."
+  },
+  {
+   "id": "letters",
+   "datei": "letters",
+   "side": "reform",
+   "kurz": "Hus's letters from Constance",
+   "zk": "Letters",
+   "warum": "Six letters, from the arrival without safe conduct to the eve of the end, in the original Latin or Czech from Palacký (1869) with Workman and Pope's English (1904): the gaolers' flight, the king's word 'as little to be trusted as the safe-conduct', why he cannot abjure, 'God will raise up braver men', and 'Sigismund hath acted deceitfully throughout'."
   }
  ],
  "planned": [
-  {
-   "id": "letters",
-   "side": "reform",
-   "kurz": "Hus's letters from Constance",
-   "warum": "The prisoner's own voice, in Latin and Czech, to his friends in Bohemia and in Constance: the safe conduct, the hearings, the offer to recant, the last days.",
-   "quelle": "Palacký, Documenta (1869); English: The Letters of John Hus, tr. H. B. Workman and R. M. Pope (London 1904)."
-  },
   {
    "id": "council",
    "side": "council",
