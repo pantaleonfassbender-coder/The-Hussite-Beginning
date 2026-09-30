@@ -56,6 +56,22 @@
    "citeLabel": "Letters [2]"
   },
   {
+   "d": "8 April 1415",
+   "side": "crown",
+   "titel": "Every safe conduct revoked",
+   "text": "After the pope's flight, Sigismund, with the council's consent, quashes all the safe conducts he has given at Constance.",
+   "cite": "#/text/council/revocation/1",
+   "citeLabel": "Council Revocation [1]"
+  },
+  {
+   "d": "12 May 1415",
+   "side": "hussites",
+   "titel": "250 seals",
+   "text": "Lords, knights and squires of Bohemia and Moravia write to Sigismund in Czech: Hus was seized 'under your safe conduct'; if he is not released, many will fear the king's safe conducts.",
+   "cite": "#/text/council/lords/1",
+   "citeLabel": "Council Lords [1]"
+  },
+  {
    "d": "5–8 June 1415",
    "side": "reform",
    "titel": "The hearings",
@@ -78,6 +94,14 @@
    "text": "The council condemns Hus as a heretic in the cathedral, degrades him from the priesthood and gives him to the secular arm; he is burned the same day outside the walls, and his ashes are thrown into the Rhine.",
    "cite": "#/text/mladonovice/sentence/4",
    "citeLabel": "Mlad. Sentence [4]"
+  },
+  {
+   "d": "26 July 1415",
+   "side": "council",
+   "titel": "The council writes to Bohemia",
+   "text": "The council tells the lords and the towns of Prague that Hus was heard, admonished and found obstinate, and threatens anyone who defends his teaching.",
+   "cite": "#/text/council/letter/1",
+   "citeLabel": "Council Letter [1]"
   },
   {
    "d": "2 September 1415",

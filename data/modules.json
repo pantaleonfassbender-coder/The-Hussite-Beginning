@@ -15,15 +15,23 @@
    "kurz": "Hus's letters from Constance",
    "zk": "Letters",
    "warum": "Six letters, from the arrival without safe conduct to the eve of the end, in the original Latin or Czech from Palacký (1869) with Workman and Pope's English (1904): the gaolers' flight, the king's word 'as little to be trusted as the safe-conduct', why he cannot abjure, 'God will raise up braver men', and 'Sigismund hath acted deceitfully throughout'."
+  },
+  {
+   "id": "council",
+   "datei": "council",
+   "side": "council",
+   "kurz": "The king's word and the council's (1415)",
+   "zk": "Council",
+   "warum": "From Palacký's Documenta, read against the page images with a working translation: Sigismund revokes every safe conduct he gave at Constance (8 April 1415); 250 lords write to him in Czech that Hus was 'seized under your safe conduct' and that no one will trust his safe conducts again (12 May); and the council explains to Bohemia why Hus was burned (26 July)."
   }
  ],
  "planned": [
   {
-   "id": "council",
+   "id": "decrees",
    "side": "council",
-   "kurz": "The council's acts: safe conduct, Haec sancta, the sentence",
-   "warum": "Sigismund's safe conduct, the decree that set the council above the pope, the articles against Hus and his sentence, in the council's own record.",
-   "quelle": "Palacký, Documenta (1869); H. von der Hardt, Magnum oecumenicum Constantiense concilium (Frankfurt and Leipzig 1697–1700)."
+   "kurz": "The council's decrees: Haec sancta and the sentence",
+   "warum": "The decree that set the council above the pope (6 April 1415), the articles condemned and the sentence against Hus (6 July 1415), in the council's own record.",
+   "quelle": "H. von der Hardt, Magnum oecumenicum Constantiense concilium, vol. IV (Frankfurt and Leipzig 1699)."
   },
   {
    "id": "deecclesia",
