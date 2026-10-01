@@ -66,6 +66,28 @@
      ]
     }
    ]
+  },
+  {
+   "id": "heir",
+   "titel": "'Our heir and lord to come'",
+   "frage": "Sigismund in the lords' letter of September 1415, and in Prague in July 1420.",
+   "note": "In 1415 the lords of Bohemia excepted one man from their curse on all who called Bohemia heretical: Sigismund, 'our heir and lord to come, whom we believe and hope to be innocent'. Five years later the heir came with a crusade, was crowned in the castle without the city, and was cursed by his own army as a patron of heretics. Between the two texts lie the safe conduct, the sentence and the death of Wenceslas; this is the second half of the site's thesis.",
+   "voices": [
+    {
+     "text": "lords",
+     "sec": "protest",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "brezova",
+     "sec": "crown",
+     "n": [
+      1
+     ]
+    }
+   ]
   }
  ]
 }

@@ -4,7 +4,7 @@ A documentary apparatus for the beginning of the Hussite revolution, 1409–1420
 
 Its thesis, to be tested against the texts: the Council of Constance won its case and Sigismund lost his kingdom. The council ended the great schism and condemned Jan Hus, who had come under the safe conduct of the king of the Romans; Hus was burned on 6 July 1415. Bohemia answered with the chalice, the protest of its lords, the defenestration of 1419 and the Four Articles, and in 1420 Jan Žižka held Prague against the crusade Sigismund led to take his inheritance.
 
-Stage 1 (in progress) carries nine modules:
+Stage 1 carries ten modules:
 
 - **The Decree of Kutná Hora** — Palacký (1869), nos. 10, 12, 13, 15, pp. 347–359: the king's mandate of 18 January 1409, the petition and oath of the three foreign nations, and an anonymous defence of the decree. Read against the page images, with a working translation.
 - **Peter of Mladoňovice, the trial and death of Hus** — the eyewitness *Relatio*, in F. Palacký, *Documenta Mag. Joannis Hus* (Prague 1869), pp. 237–324: the safe conduct, the arrest, the hearings of 7 and 8 June 1415, the sentence and the burning. Excerpts, Latin read against the page images, with a working translation.
@@ -15,10 +15,9 @@ Stage 1 (in progress) carries nine modules:
 - **Ulrich Richental's chronicle of the council** — ed. Buck (1882), pp. 58 and 79–80: the haycart story and the king's handing over, in German with a working translation.
 - **The protest of the Bohemian lords** — Palacký (1869), no. 85, pp. 580–584: the letter of 2 September 1415 under 452 seals. Read against the page images, with a working translation.
 - **Poggio on the trial of Jerome of Prague** — Palacký (1869), no. 100, pp. 624–629: Poggio Bracciolini to Leonardo Bruni, 30 May 1416. Read against the page images, with a working translation; the account of the burning is not carried.
+- **Laurence of Březová's Hussite chronicle** — *Fontes rerum Bohemicarum* V, ed. Goll (1893), pp. 344–396: Mount Tábor, the defenestration and the king's death (1419), the crusade and Vítkov, the Four Articles of Prague, and Sigismund's coronation (1420). Latin read against the page images, with a working translation. The companion site [The Hussite Field Armies](https://the-hussite-field-armies.netlify.app/) continues the chronicle from August 1420.
 
-Planned, in the order of work (see `data/modules.json`):
-
-- **Laurence of Březová's Hussite chronicle** — *Fontes rerum Bohemicarum* V (1893): the defenestration, the Four Articles, Žižka and Vítkov.
+No further modules are planned for stage 1.
 
 The companion game *Salvus conductus* takes its title from Sigismund's letter of safe conduct.
 
@@ -34,9 +33,10 @@ python tools/build-richental.py
 python tools/build-kutnahora.py
 python tools/build-lords.py
 python tools/build-jerome.py
+python tools/build-brezova.py
 ```
 
-The texts are kept in `tools/mladonovice_text.py`, `tools/letters_text.py`, `tools/council_text.py`, `tools/decrees_text.py`, `tools/deecclesia_text.py`, `tools/richental_text.py`, `tools/kutnahora_text.py`, `tools/lords_text.py` and `tools/jerome_text.py`.
+The texts are kept in `tools/mladonovice_text.py`, `tools/letters_text.py`, `tools/council_text.py`, `tools/decrees_text.py`, `tools/deecclesia_text.py`, `tools/richental_text.py`, `tools/kutnahora_text.py`, `tools/lords_text.py`, `tools/jerome_text.py` and `tools/brezova_text.py`.
 
 ## Running locally
 

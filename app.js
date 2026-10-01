@@ -63,7 +63,7 @@ function overview() {
     <div class="panel"><h3>What was a safe conduct worth?</h3>
       <p>Sigismund's letter promised Hus free passage to Constance and back (<a href="#/text/mladonovice/journey/1">Mlad. Journey [1]</a>). Hus was arrested within a month of his arrival (<a href="#/text/mladonovice/arrest/4">Mlad. Arrest [4]</a>). The king told Hus to his face that he had kept his word, since the letter promised a hearing; the Bohemian lords held that it had been broken (<a href="#/text/mladonovice/hearings/1">Mlad. Hearings [1]</a>).</p></div>
     <div class="panel"><h3>How did Prague answer?</h3>
-      <p>With the chalice for the laity, a protest sealed by more than four hundred lords, the defenestration of 30 July 1419, the Four Articles of Prague, and the wagon forts of Jan Žižka.</p></div>
+      <p>With the chalice for the laity, a protest sealed by more than four hundred lords (<a href="#/text/lords/protest/1">Protest [1]</a>), the defenestration of 30 July 1419 (<a href="#/text/brezova/y1419/2">Laur. 1419 [2]</a>), the Four Articles of Prague (<a href="#/text/brezova/articles/1">Laur. Articles [1]</a>), and Jan Žižka's fort on the hill of Vítkov (<a href="#/text/brezova/vitkov/3">Laur. Vítkov [3]</a>). What followed, the field armies of 1421–1434, is the subject of the companion site <a href="https://the-hussite-field-armies.netlify.app/">The Hussite Field Armies</a>.</p></div>
     <div class="panel"><h3>Can the story be played?</h3>
       <p>A companion game, <em>Salvus conductus</em>, is in preparation: as Jan Hus you decide what to recant and what to die for; as Jan Žižka you hold Prague against the crusade. Its cards will cite the passages carried here.</p></div>
   </div>`;

@@ -71,16 +71,16 @@
    "kurz": "Poggio on the trial of Jerome of Prague (1416)",
    "zk": "Poggio",
    "warum": "A humanist at the council writes to Leonardo Bruni, from Palacký's Documenta (1869), read against the page images with a working translation: Jerome's eloquence 'nearer to the ancients', 'bread remains at the baker's', the unjustly condemned from Socrates to 'a council of priests', the praise of Hus that sealed his fate, and 'a man worthy of everlasting memory'."
-  }
- ],
- "planned": [
+  },
   {
    "id": "brezova",
+   "datei": "brezova",
    "side": "hussites",
-   "kurz": "Laurence of Březová's Hussite chronicle",
-   "warum": "The Prague chronicler of the revolution: the defenestration of 30 July 1419, the Four Articles of Prague, Žižka, the crusade and the battle of Vítkov.",
-   "quelle": "Vavřinec z Březové, Kronika husitská, ed. J. Goll, Fontes rerum Bohemicarum V (Prague 1893)."
+   "kurz": "Laurence of Březová's Hussite chronicle (1419–1420)",
+   "zk": "Laur.",
+   "warum": "The Prague chronicler, from Fontes rerum Bohemicarum V (1893), read against the page images with a working translation: Mount Tábor and the defenestration of 30 July 1419, 'the common people and Jan Žižka', the king's death, the crusade before Prague and the battle of Vítkov, the Four Articles of Prague, and Sigismund crowned in the castle and cursed by his own army as a 'patron and deceiver of heretics'."
   }
  ],
+ "planned": [],
  "missing": []
 }

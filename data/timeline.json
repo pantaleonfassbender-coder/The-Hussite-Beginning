@@ -137,16 +137,28 @@
    "text": "The council elects Martin V; the great schism is over. (Modern accounts; module planned.)"
   },
   {
+   "d": "22 July 1419",
+   "side": "hussites",
+   "titel": "Mount Tábor",
+   "text": "More than forty thousand people take communion in both kinds on a hill near Bechyně that they call Tábor. King Wenceslas fears for his throne.",
+   "cite": "#/text/brezova/y1419/1",
+   "citeLabel": "Laur. 1419 [1]"
+  },
+  {
    "d": "30 July 1419",
    "side": "hussites",
    "titel": "The defenestration",
-   "text": "After a procession led by the preacher Jan Želivský, councillors of the New Town of Prague are thrown from the town hall windows. (Modern accounts; module planned.)"
+   "text": "A procession returning to the New Town is insulted from the town hall; 'the common people and Jan Žižka, a familiar of the king' throw the burgomaster and councillors from the windows and kill them. The town elects its own captains; the king, furious, has to confirm its new aldermen.",
+   "cite": "#/text/brezova/y1419/2",
+   "citeLabel": "Laur. 1419 [2]"
   },
   {
    "d": "16 August 1419",
    "side": "crown",
    "titel": "Wenceslas dies",
-   "text": "King Wenceslas IV dies; the heir is his brother Sigismund. (Modern accounts; module planned.)"
+   "text": "King Wenceslas IV dies of a stroke at Nový Hrad, 'with a roar like a lion's', and is buried by night at Zbraslav. The heir is his half-brother Sigismund.",
+   "cite": "#/text/brezova/y1419/3",
+   "citeLabel": "Laur. 1419 [3]"
   },
   {
    "d": "March 1420",
@@ -159,13 +171,26 @@
    "d": "14 July 1420",
    "side": "hussites",
    "titel": "Vítkov",
-   "text": "Žižka's men hold the hill of Vítkov above Prague against Sigismund's crusading army. (Modern accounts; module planned.)"
+   "text": "The crusaders storm Žižka's log fort on the hill of Vítkov above Prague; two women, a girl and a few men hold the wall, Žižka is saved by his men's flails, and a priest with the sacrament and peasants with flails put the Meisseners to flight. The hill is renamed after Žižka, or after the chalice.",
+   "cite": "#/text/brezova/vitkov/3",
+   "citeLabel": "Laur. Vítkov [3]"
+  },
+  {
+   "d": "July 1420",
+   "side": "hussites",
+   "titel": "The Four Articles",
+   "text": "The Praguers ask for a public hearing before the crusading army; when it is refused, the masters send the Four Articles in Latin, German and Czech: free preaching, the chalice, no worldly lordship for the clergy, public sins punished. They will stand for them 'by death or by life'.",
+   "cite": "#/text/brezova/articles/1",
+   "citeLabel": "Laur. Articles [1]"
   },
   {
    "d": "28 July 1420",
    "side": "crown",
    "titel": "A king crowned in a castle",
-   "text": "Sigismund has himself crowned king of Bohemia in the cathedral of Prague castle, while the city below holds against him. The Four Articles of Prague are proclaimed that summer: the free preaching of the word, the chalice for the laity, a Church without worldly property, and the punishment of mortal sins. (Modern accounts; module planned.)"
+   "text": "Sigismund is crowned king of Bohemia in the castle, with not all the barons and none of the Prague aldermen present, pays his soldiers with melted reliquaries, and on 30 July watches his army burn its tents and leave, cursing him as a patron and deceiver of heretics.",
+   "cite": "#/text/brezova/crown/1",
+   "citeLabel": "Laur. Crown [1]",
+   "plate": "sigismund"
   }
  ]
 }

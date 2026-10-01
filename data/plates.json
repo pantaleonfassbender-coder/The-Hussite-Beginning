@@ -1,5 +1,5 @@
 {
- "credit": "Plates: illuminations and drawings from the Wenceslas Bible (Vienna), Ulrich Richental's chronicle (Konstanz, Rosgartenmuseum), the Martinice Bible, a fifteenth-century Prague manuscript with Jerome's shield of faith and the Jena Codex (Prague), and a Poggio manuscript from the library of Urbino (Vatican); a notarial instrument of 1414 (Prague); and a wood engraving from Zap's Česko-moravská kronika (1868). Public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "credit": "Plates: illuminations and drawings from the Wenceslas Bible (Vienna), Ulrich Richental's chronicle (Konstanz, Rosgartenmuseum), the Martinice Bible, a fifteenth-century Prague manuscript with Jerome's shield of faith and the Jena Codex (Prague), and a Poggio manuscript from the library of Urbino (Vatican); a portrait of Sigismund (Vienna, Kunsthistorisches Museum); a notarial instrument of 1414 (Prague); and a wood engraving from Zap's Česko-moravská kronika (1868). Public-domain reproductions via Wikimedia Commons, resized for this site.",
  "lede": "The king, the council, the condemned man and the captain, as painters of the fifteenth century saw them. Each plate names its source; the caption points to the passage it belongs with. The burning itself is not shown.",
  "plates": [
   {
@@ -64,6 +64,13 @@
    "titel": "Žižka leads the field army",
    "caption": "Jan Žižka, blind, on a white horse, with the chalice on the banner a mace in his hand, and his men behind him with halberds and a war hammer; the scroll calls him 'Žižka, our faithful brother'. Painted some eighty years after his death in 1424, for the Utraquist community that kept his memory.",
    "source": "Jena Codex (Antithesis Christi et Antichristi), Prague, National Museum Library, c. 1490–1510, attributed to Janíček Zmilelý of Písek; via Wikimedia Commons."
+  },
+  {
+   "id": "sigismund",
+   "side": "crown",
+   "titel": "Sigismund of Luxembourg",
+   "caption": "The king of the Romans and of Hungary in his fur hat, painted in the 1430s, when he was at last emperor and at last accepted in Bohemia. He gave Hus the safe conduct of 1414 and revoked every safe conduct in 1415 (Council Revocation [1]); in 1420 he was crowned king of Bohemia in Prague Castle while the city below held out against him, and his own crusaders left cursing him as a friend of heretics (Laur. Crown [1]).",
+   "source": "Vienna, Kunsthistorisches Museum, GG 2630, c. 1430–1437, attributed to Pisanello or his circle; via Wikimedia Commons (public domain)."
   }
  ]
 }
