@@ -1,5 +1,7 @@
 # The Hussite Beginning
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23076957.svg)](https://doi.org/10.5281/zenodo.23076957)
+
 A documentary apparatus for the beginning of the Hussite revolution, 1409–1420: how did a trial become a war? Public-domain sources with the original (Latin, Czech, German) beside a working English translation, a timeline linked into the texts, a Compare page, plates, and a list of what is not carried and why.
 
 Its thesis: the Council of Constance won its case and Sigismund lost his kingdom. The council ended the great schism and condemned Jan Hus, who had come under the safe conduct of the king of the Romans; Hus was burned on 6 July 1415. Bohemia answered with the chalice, the protest of its lords, the defenestration of 1419 and the Four Articles, and in 1420 Jan Žižka held Prague against the crusade Sigismund led to take his inheritance.
@@ -25,7 +27,7 @@ The companion game *Salvus conductus* takes its title from Sigismund's letter of
 
 ## Citation
 
-Fassbender, Pantaleon. *The Hussite Beginning: A Documentary Apparatus, 1409–1420.* 2026. Version 1.0.0. https://the-hussite-beginning.netlify.app/ (DOI to follow). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
+Fassbender, Pantaleon. *The Hussite Beginning: A Documentary Apparatus, 1409–1420.* 2026. https://doi.org/10.5281/zenodo.23076957 (all versions; version 1.0.0: https://doi.org/10.5281/zenodo.23076958). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
 
 ## Building the data
 
