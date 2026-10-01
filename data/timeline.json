@@ -161,11 +161,29 @@
    "citeLabel": "Laur. 1419 [3]"
   },
   {
-   "d": "March 1420",
+   "d": "October–November 1419",
+   "side": "hussites",
+   "titel": "War in Prague, and a truce",
+   "text": "The queen and the great officers hold the castle; the New Town takes Vyšehrad, and Jan Žižka, a familiar of the dead king, joins it. After two days of fighting in the Lesser Town a truce is made on 13 November: the queen promises to protect the chalice, the city not to break images.",
+   "cite": "#/text/brezova/y1419/5",
+   "citeLabel": "Laur. 1419 [5]"
+  },
+  {
+   "d": "March–April 1420",
    "side": "hussites",
    "titel": "Tábor and the crusade",
-   "text": "Radicals found Tábor in southern Bohemia; the pope proclaims a crusade against the heretics of Bohemia, and Jan Žižka's wagons hold at Sudoměř. (Modern accounts; module planned.)",
-   "plate": "zizka"
+   "text": "The crusade against the Bohemians is proclaimed at Breslau on 17 March. Leaving Plzeň under a truce made in bad faith, the radicals are attacked near Sudoměř and hold behind their wagons; on the hill of Hradiště they found Tábor, with Jan Žižka among its four captains.",
+   "plate": "zizka",
+   "cite": "#/text/brezova/y1420/3",
+   "citeLabel": "Laur. 1420 [3]"
+  },
+  {
+   "d": "25 March 1420",
+   "side": "hussites",
+   "titel": "Sudoměř",
+   "text": "Near Sudoměř the radicals from Plzeň, Žižka among them, surround themselves with their wagons and hold off the royal horsemen until sunset: the first battle of the wagon fort.",
+   "cite": "#/text/brezova/y1420/4",
+   "citeLabel": "Laur. 1420 [4]"
   },
   {
    "d": "14 July 1420",
