@@ -1,0 +1,24 @@
+{
+  "upload_type": "dataset",
+  "title": "The Hussite Beginning: A Documentary Apparatus, 1409–1420",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>A documentary apparatus for the beginning of the Hussite revolution, 1409&ndash;1420: how did a trial become a war? Its thesis: the Council of Constance won its case and Sigismund lost his kingdom. The council ended the great schism and condemned Jan Hus, who had come under the safe conduct of Sigismund, king of the Romans and heir to Bohemia; Hus was burned on 6 July 1415. Bohemia answered with the chalice, the protest of its lords, the defenestration of 1419 and the Four Articles of Prague; in 1420 Sigismund was crowned in Prague Castle while the city held out against him, and his own crusaders left cursing him as a patron of heretics.</p><p>Ten modules from public-domain editions, with the original (Latin, Czech, German) beside a working English translation (CC0), every excerpt read against the page images: the Decree of Kutn&aacute; Hora (1409) with the petition and oath of the three foreign nations and an anonymous defence of the decree; Peter of Mlado&ncaron;ovice's account of the trial and death of Hus; six of Hus's letters from Constance, with the English of Workman and Pope (1904); Sigismund's revocation of the safe conducts, the Czech petition of the Bohemian lords and the council's letter to Bohemia (1415); all from F. Palack&yacute;, <em>Documenta Mag. Joannis Hus</em> (1869). The council's decrees <em>Haec sancta</em> and the sentence on Hus, with five condemned articles (Mansi XXVII, 1784); Hus's <em>De ecclesia</em> in David S. Schaff's English (1915); Ulrich Richental's chronicle of the council (Buck 1882); the protest of the lords of Bohemia and Moravia under 452 seals (2 September 1415) and Poggio Bracciolini's letter to Leonardo Bruni on the trial of Jerome of Prague (30 May 1416), both from Palack&yacute; (1869); and Laurence of B&rcaron;ezov&aacute;'s chronicle from Mount T&aacute;bor and the defenestration of 1419 to the battle of V&iacute;tkov, the Four Articles and Sigismund's coronation in July 1420 (<em>Fontes rerum Bohemicarum</em> V, ed. Goll, 1893). With a timeline linked into the texts, a Compare page, and ten public-domain plates.</p><p>What is not carried is listed with reasons: the Latin of <em>De ecclesia</em> (in copyright), Hus's Czech writings (by choice), von der Hardt's acts of the council (no usable scan), the descriptions of the burnings (by choice), and the wars after July 1420, which belong to the companion site <em>The Hussite Field Armies</em> (https://the-hussite-field-armies.netlify.app/). Companion game: <em>Salvus conductus</em> (https://salvus-conductus.netlify.app/).</p><p>Licensing: code MIT; editorial matter CC BY 4.0; editions, working translations and derived data CC0 1.0 &mdash; see LICENSES.md. Live site: https://the-hussite-beginning.netlify.app/</p>",
+  "license": "MIT",
+  "keywords": [
+    "Jan Hus",
+    "Hussites",
+    "Council of Constance",
+    "Sigismund of Luxembourg",
+    "Jan Žižka",
+    "Jerome of Prague",
+    "Four Articles of Prague",
+    "Bohemian Reformation",
+    "safe conduct",
+    "digital humanities"
+  ]
+}

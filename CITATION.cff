@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "The Hussite Beginning: A Documentary Apparatus, 1409–1420"
+message: "If you use this apparatus, please cite it as below — and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/The-Hussite-Beginning"
+url: "https://the-hussite-beginning.netlify.app/"
+abstract: >-
+  A documentary apparatus for the beginning of the Hussite revolution,
+  1409-1420, built from public-domain editions with the original (Latin,
+  Czech, German) beside a working English translation, every excerpt read
+  against the page images: the Decree of Kutna Hora and the quarrel over it
+  (Palacky, Documenta, 1869); Peter of Mladonovice's account of the trial
+  and death of Hus; Hus's letters from Constance (Palacky 1869, with the
+  English of Workman and Pope 1904); Sigismund's revocation of the safe
+  conducts, the Bohemian lords' petition and the council's letter to
+  Bohemia (1415); the council's decrees (Mansi XXVII, 1784); Hus's De
+  ecclesia in Schaff's English (1915); Ulrich Richental's chronicle (Buck
+  1882); the protest of the Bohemian lords under 452 seals (1415); Poggio
+  Bracciolini on the trial of Jerome of Prague (1416); and Laurence of
+  Brezova's chronicle from Mount Tabor to Sigismund's coronation (Fontes
+  rerum Bohemicarum V, 1893). With a timeline, a Compare page, ten plates,
+  and an explicit list of what is not carried and why. Companion game:
+  Salvus conductus. Companion site: The Hussite Field Armies.
+keywords:
+  - Jan Hus
+  - Hussites
+  - Council of Constance
+  - Sigismund of Luxembourg
+  - Jan Zizka
+  - Jerome of Prague
+  - Bohemian Reformation
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-10-01

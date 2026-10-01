@@ -82,5 +82,41 @@
   }
  ],
  "planned": [],
- "missing": []
+ "missing": [
+  {
+   "id": "ecclesia-latin",
+   "side": "reform",
+   "kurz": "Hus's De ecclesia in Latin",
+   "warum": "The treatise is carried in David S. Schaff's English (1915). The only critical edition of the Latin, S. Harrison Thomson's (Boulder 1956), is in copyright, and the sixteenth-century printings are not available in usable scans. Where the council condemned a sentence from the book, the Latin article is carried in the council's decrees. A gap by necessity.",
+   "quelle": "Magistri Johannis Hus Tractatus de ecclesia, ed. S. H. Thomson (1956), in copyright."
+  },
+  {
+   "id": "czech-works",
+   "side": "reform",
+   "kurz": "Hus's Czech writings",
+   "warum": "The sermons, the Exposition of the Faith and the shorter Czech treatises are the Hus his Prague hearers knew. They are in the public domain in K. J. Erben's edition (1865–1868), but this stage follows the trial and its consequences, and carries Hus's Czech only in his letters. A gap by choice, and the first candidate for a later stage.",
+   "quelle": "Mistra Jana Husi Sebrané spisy české, ed. K. J. Erben, 3 vols. (Prague 1865–1868)."
+  },
+  {
+   "id": "hardt",
+   "side": "council",
+   "kurz": "Von der Hardt's acts of the council",
+   "warum": "Hermann von der Hardt's Magnum oecumenicum Constantiense concilium (1697–1700) is the fullest printing of the council's acts, and volume IV holds the sessions of 1415. No usable scan of that volume was found; the decrees are carried from Mansi XXVII (1784), which reprints the same acts.",
+   "quelle": "H. von der Hardt, Magnum oecumenicum Constantiense concilium, vol. IV (Frankfurt and Leipzig 1699)."
+  },
+  {
+   "id": "burnings",
+   "side": "reception",
+   "kurz": "The accounts of the burnings",
+   "warum": "Mladoňovice's account of Hus's death is carried, as the record of his last words. The other descriptions of the executions, Richental's of Hus and Poggio's of Jerome, and the chronicle pictures of the burnings, are not; the cuts are marked and the notes say what they contain. Laurence's accounts of crusaders burning Utraquist priests, peasants and children in 1420 are likewise left out. A gap by choice.",
+   "quelle": "Buck 1882, pp. 81–83; Palacký 1869, p. 629; FRB V, pp. 385–390."
+  },
+  {
+   "id": "after1420",
+   "side": "hussites",
+   "kurz": "The Hussite wars after July 1420",
+   "warum": "This apparatus ends with Sigismund's coronation and the crusade's retreat. The field armies, Žižka's military ordinance of 1423, the later crusades and Lipany (1434) are the subject of the companion site The Hussite Field Armies, which carries Laurence of Březová from 22 August 1420 on.",
+   "quelle": "https://the-hussite-field-armies.netlify.app/"
+  }
+ ]
 }
