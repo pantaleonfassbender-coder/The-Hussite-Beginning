@@ -5,7 +5,10 @@
    "d": "18 January 1409",
    "side": "crown",
    "titel": "The Decree of Kutná Hora",
-   "text": "King Wenceslas IV gives the Bohemian nation three votes and the foreign nations one at the university of Prague; the German masters and students leave for Leipzig. Hus becomes rector. (Modern accounts; module planned.)"
+   "text": "From Kutná Hora, King Wenceslas IV gives the Bohemian nation three votes at the university of Prague and the three foreign nations one between them. The Poles, Bavarians and Saxons petition and swear to leave; in the spring hundreds of masters and students go, many to Leipzig. In October Hus becomes rector.",
+   "cite": "#/text/kutnahora/mandate/1",
+   "citeLabel": "KH Mandate [1]",
+   "plate": "wenceslas"
   },
   {
    "d": "1410",
@@ -41,7 +44,8 @@
    "titel": "The council opens",
    "text": "The Council of Constance opens under John XXIII. Hus arrives on 3 November with Sigismund's safe conduct; on 28 November two bishops come to his lodging, and he does not come back.",
    "cite": "#/text/mladonovice/arrest/4",
-   "citeLabel": "Mlad. Arrest [4]"
+   "citeLabel": "Mlad. Arrest [4]",
+   "plate": "session"
   },
   {
    "d": "20 March 1415",
@@ -97,7 +101,8 @@
    "titel": "The sentence and the fire",
    "text": "The council condemns Hus as a heretic in the cathedral, degrades him from the priesthood and gives him to the secular arm; he is burned the same day outside the walls, and his ashes are thrown into the Rhine.",
    "cite": "#/text/mladonovice/sentence/4",
-   "citeLabel": "Mlad. Sentence [4]"
+   "citeLabel": "Mlad. Sentence [4]",
+   "plate": "degradation"
   },
   {
    "d": "26 July 1415",
@@ -141,7 +146,8 @@
    "d": "March 1420",
    "side": "hussites",
    "titel": "Tábor and the crusade",
-   "text": "Radicals found Tábor in southern Bohemia; the pope proclaims a crusade against the heretics of Bohemia, and Jan Žižka's wagons hold at Sudoměř. (Modern accounts; module planned.)"
+   "text": "Radicals found Tábor in southern Bohemia; the pope proclaims a crusade against the heretics of Bohemia, and Jan Žižka's wagons hold at Sudoměř. (Modern accounts; module planned.)",
+   "plate": "zizka"
   },
   {
    "d": "14 July 1420",

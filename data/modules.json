@@ -1,6 +1,14 @@
 {
  "shipped": [
   {
+   "id": "kutnahora",
+   "datei": "kutnahora",
+   "side": "crown",
+   "kurz": "The Decree of Kutná Hora (1409)",
+   "zk": "KH",
+   "warum": "Where the quarrel begins, from Palacký's Documenta (1869), read against the page images with a working translation: the king gives the Bohemian nation three votes at the university of Prague, the three other nations petition and swear to leave, and a Bohemian master defends the decree: 'the head and not the tail', and 'I am the truth, not the custom'."
+  },
+  {
    "id": "mladonovice",
    "datei": "mladonovice",
    "side": "reform",
@@ -50,13 +58,6 @@
   }
  ],
  "planned": [
-  {
-   "id": "kutnahora",
-   "side": "crown",
-   "kurz": "The Decree of Kutná Hora (1409)",
-   "warum": "King Wenceslas gives the Bohemian nation three votes at the university of Prague, and the German masters leave: where the quarrel begins.",
-   "quelle": "Palacký, Documenta (1869)."
-  },
   {
    "id": "lords",
    "side": "hussites",

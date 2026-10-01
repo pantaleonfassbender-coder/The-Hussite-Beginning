@@ -1,5 +1,48 @@
 {
- "credit": "",
- "lede": "",
- "plates": []
+ "credit": "Plates: illuminations from the Wenceslas Bible (Vienna), Ulrich Richental's chronicle (Konstanz, Rosgartenmuseum), the Martinice Bible and the Jena Codex (Prague), and a notarial instrument of 1414 (Prague); public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "lede": "The king, the council, the condemned man and the captain, as painters of the fifteenth century saw them. Each plate names its source; the caption points to the passage it belongs with. The burning itself is not shown.",
+ "plates": [
+  {
+   "id": "wenceslas",
+   "side": "crown",
+   "titel": "King Wenceslas IV",
+   "caption": "The king enthroned with sword and orb, in an initial of the German Bible made for him in Prague in the 1390s. It was Wenceslas who gave the Bohemian nation three votes at the university (KH Mandate [1]) and who protected Hus until 1412; his death in August 1419 left the crown to his brother Sigismund.",
+   "source": "Wenceslas Bible, Vienna, Österreichische Nationalbibliothek, Cod. 2759–2764, c. 1389–1400 (detail); via Wikimedia Commons."
+  },
+  {
+   "id": "instrument",
+   "side": "crown",
+   "titel": "A notarial instrument in the Carolinum",
+   "caption": "Wikimedia Commons labels this sealed sheet 'Decree of Kutná Hora'. Its opening lines date it to September of the year 1414 (indiction seven) in the Collegium Carolinum, and Master Jan Hus of Husinec is named a few lines down: it is a notarial instrument drawn up at the university, not the king's letter of 1409, whose text Palacký took from the university's statute book (KH Mandate [1]). It shows the form in which the university's business was certified and kept.",
+   "source": "Prague, 1414, parchment with pendant seal; image from the Library of the Czech Academy of Sciences, via Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "session",
+   "side": "council",
+   "titel": "A session of the council in the cathedral",
+   "caption": "The pope (in the council's first months, John XXIII), standing at the altar, with cardinals and bishops on the benches of Constance cathedral and the common people behind the barrier. The council's general sessions were held here; here Haec sancta was passed (Decr. Haec [1]) and Hus was sentenced (Decr. Sentence [1]).",
+   "source": "Ulrich Richental, Chronicle of the Council of Constance, Konstanz, Rosgartenmuseum, Hs. 1, fol. 12v, c. 1460–1465; via Wikimedia Commons."
+  },
+  {
+   "id": "degradation",
+   "side": "council",
+   "titel": "The degradation and the way out of the city",
+   "caption": "Above, bishops strip Hus of his priestly vestments; the inscription reads 'de degradacione Husso'. Below, wearing the paper crown painted with devils, he is led out of Constance among armed men. The chronicle's next picture shows the burning, which this site does not reproduce. Mladoňovice tells the degradation (Mlad. Sentence [2]); Richental the handing over (Richental [2]).",
+   "source": "Ulrich Richental, Chronicle of the Council of Constance, Konstanz, Rosgartenmuseum, Hs. 1, fol. 57v, c. 1460–1465; via Wikimedia Commons."
+  },
+  {
+   "id": "martinice",
+   "side": "reception",
+   "titel": "The oldest picture of Hus",
+   "caption": "In the initial I of Genesis, beside the days of creation, Hus stands in the fire with the heretic's paper crown; at the left a master in a dark gown holds a book. The Bible was made in Bohemia around 1430, fifteen years after the death; it has been suggested that the master is Peter of Mladoňovice, who may have ordered the manuscript. Within a generation Hus had become a martyr painted into scripture.",
+   "source": "Martinice Bible, Prague, Library of the Czech Academy of Sciences, fol. 11v, c. 1430; via Wikimedia Commons."
+  },
+  {
+   "id": "zizka",
+   "side": "hussites",
+   "titel": "Žižka leads the field army",
+   "caption": "Jan Žižka, blind, on a white horse, with the chalice on the banner a mace in his hand, and his men behind him with halberds and a war hammer; the scroll calls him 'Žižka, our faithful brother'. Painted some eighty years after his death in 1424, for the Utraquist community that kept his memory.",
+   "source": "Jena Codex (Antithesis Christi et Antichristi), Prague, National Museum Library, c. 1490–1510, attributed to Janíček Zmilelý of Písek; via Wikimedia Commons."
+  }
+ ]
 }
