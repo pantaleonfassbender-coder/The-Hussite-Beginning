@@ -23,16 +23,17 @@
    "kurz": "The king's word and the council's (1415)",
    "zk": "Council",
    "warum": "From Palacký's Documenta, read against the page images with a working translation: Sigismund revokes every safe conduct he gave at Constance (8 April 1415); 250 lords write to him in Czech that Hus was 'seized under your safe conduct' and that no one will trust his safe conducts again (12 May); and the council explains to Bohemia why Hus was burned (26 July)."
+  },
+  {
+   "id": "decrees",
+   "datei": "decrees",
+   "side": "council",
+   "kurz": "The council's decrees: Haec sancta and the sentence",
+   "zk": "Decr.",
+   "warum": "From Mansi's collection (1784), read against the page images with a working translation: Haec sancta, by which the council claimed its power immediately from Christ (6 April 1415); the sentence of 6 July 1415 against Hus as 'Wyclif's disciple' and 'a true and manifest heretic'; and five of the thirty condemned articles."
   }
  ],
  "planned": [
-  {
-   "id": "decrees",
-   "side": "council",
-   "kurz": "The council's decrees: Haec sancta and the sentence",
-   "warum": "The decree that set the council above the pope (6 April 1415), the articles condemned and the sentence against Hus (6 July 1415), in the council's own record.",
-   "quelle": "H. von der Hardt, Magnum oecumenicum Constantiense concilium, vol. IV (Frankfurt and Leipzig 1699)."
-  },
   {
    "id": "deecclesia",
    "side": "reform",
