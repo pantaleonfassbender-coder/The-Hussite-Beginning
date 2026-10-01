@@ -1,5 +1,5 @@
 {
- "credit": "Plates: illuminations from the Wenceslas Bible (Vienna), Ulrich Richental's chronicle (Konstanz, Rosgartenmuseum), the Martinice Bible and the Jena Codex (Prague), a notarial instrument of 1414 (Prague), and a wood engraving from Zap's Česko-moravská kronika (1868); public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "credit": "Plates: illuminations and drawings from the Wenceslas Bible (Vienna), Ulrich Richental's chronicle (Konstanz, Rosgartenmuseum), the Martinice Bible, a fifteenth-century Prague manuscript with Jerome's shield of faith and the Jena Codex (Prague), and a Poggio manuscript from the library of Urbino (Vatican); a notarial instrument of 1414 (Prague); and a wood engraving from Zap's Česko-moravská kronika (1868). Public-domain reproductions via Wikimedia Commons, resized for this site.",
  "lede": "The king, the council, the condemned man and the captain, as painters of the fifteenth century saw them. Each plate names its source; the caption points to the passage it belongs with. The burning itself is not shown.",
  "plates": [
   {
@@ -36,6 +36,20 @@
    "titel": "The lords hang their seals",
    "caption": "A nineteenth-century picture of 2 September 1415: lords at a table in a Gothic hall hang their seals on the letter of complaint. Its Czech caption reads 'The lords at the diet hang their seals on the letter of complaint over the burning of Hus, 1415'. It is how the national history of the 1860s saw the protest: as the nobility of the land standing together. The letter itself went to Constance in eight copies under 452 seals (Protest [3]).",
    "source": "Wood engraving after Antonín König, in K. V. Zap, Česko-moravská kronika (Prague: Kober, 1868), p. 700; via Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "scutum",
+   "side": "reform",
+   "titel": "Jerome's shield of faith",
+   "caption": "The old diagram of the Trinity, the 'shield of faith', in the version associated with Jerome of Prague. The verse at the top reads 'Snow, ice, rain: three names, yet one thing; so God is threefold, yet one'. Each of the four fields lists five matching terms: Father, ice, memory, eagle, Augustine; Son, rain, reason, lion, Jerome; Spirit, snow, will, calf, Ambrose; and in the middle God, water, the rational soul, animal, man. It is the philosophical realism, the reality of universals, that Jerome had defended in the universities of Europe, and that his accusers held against him.",
+   "source": "Prague, National Library of the Czech Republic, MS V E 28, fol. 130r, fifteenth century; via Wikimedia Commons (public domain)."
+  },
+  {
+   "id": "poggio",
+   "side": "reception",
+   "titel": "Poggio Bracciolini",
+   "caption": "The Florentine humanist, grey-haired, with an open book, in the initial of a manuscript of his dialogue On the Variety of Fortune from the ducal library of Urbino. At Constance in 1416 he was a papal secretary without a pope, hunting manuscripts in the monasteries round the lake, and he wrote to Leonardo Bruni that he had never heard anyone come nearer to the eloquence of the ancients than Jerome (Poggio [1]).",
+   "source": "Vatican Library, Urb. lat. 224, fifteenth century (detail); via Wikimedia Commons (public domain)."
   },
   {
    "id": "martinice",

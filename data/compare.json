@@ -44,6 +44,28 @@
      ]
     }
    ]
+  },
+  {
+   "id": "goodman",
+   "titel": "'A good and just man'",
+   "frage": "Hus defended by the lords of Bohemia in September 1415, and by Jerome before the council in May 1416.",
+   "note": "The lords call Hus 'a man good, just and catholic', who taught nothing against the faith; Jerome, as Poggio reports him, calls Hus 'a good, just and holy man' who spoke not against the Church but against the abuses, pride and pomp of the clergy. Whether Jerome knew the lords' letter, the sources do not say. The council, which had been sent the letter and had heard Jerome, condemned him within the week.",
+   "voices": [
+    {
+     "text": "lords",
+     "sec": "protest",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "jerome",
+     "sec": "jerome",
+     "n": [
+      5
+     ]
+    }
+   ]
   }
  ]
 }

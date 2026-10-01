@@ -63,16 +63,17 @@
    "kurz": "The protest of the Bohemian lords (2 September 1415)",
    "zk": "Protest",
    "warum": "The letter of the lords of Bohemia and Moravia to the council under 452 seals, from Palacký's Documenta (1869), read against the page images with a working translation: Hus 'a good, just and catholic man', condemned unconfessed and unconvicted; whoever calls Bohemia heretical lies on his own head, King Sigismund excepted; and the preachers of the law of Christ to be defended 'even to the shedding of blood'."
+  },
+  {
+   "id": "jerome",
+   "datei": "jerome",
+   "side": "reception",
+   "kurz": "Poggio on the trial of Jerome of Prague (1416)",
+   "zk": "Poggio",
+   "warum": "A humanist at the council writes to Leonardo Bruni, from Palacký's Documenta (1869), read against the page images with a working translation: Jerome's eloquence 'nearer to the ancients', 'bread remains at the baker's', the unjustly condemned from Socrates to 'a council of priests', the praise of Hus that sealed his fate, and 'a man worthy of everlasting memory'."
   }
  ],
  "planned": [
-  {
-   "id": "jerome",
-   "side": "reception",
-   "kurz": "Poggio on the death of Jerome of Prague (1416)",
-   "warum": "A humanist at the council writes to Leonardo Bruni about the eloquence and the burning of Hus's friend, as if he had watched a Roman die.",
-   "quelle": "Poggio Bracciolini, letter to Leonardo Bruni, 30 May 1416, in a public-domain edition to be identified."
-  },
   {
    "id": "brezova",
    "side": "hussites",
