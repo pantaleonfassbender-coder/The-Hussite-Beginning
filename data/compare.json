@@ -1,4 +1,27 @@
 {
  "lede": "The same days told from Constance and from Prague. The pairs will be added as the modules are carried.",
- "pairs": []
+ "pairs": [
+  {
+   "id": "haycart",
+   "titel": "Did Hus try to escape?",
+   "frage": "The haycart, told by Hus's friend and by a citizen of Constance.",
+   "note": "Mladoňovice, who was there with Hus's protector, calls the haycart story a false rumour: a cart went out for hay with its cover on, and people talked. Richental tells it as fact, with a flask of wine and a white loaf, and has a Bohemian knight ask Hus why he broke his own safe conduct. If Hus fled, the king's promise no longer bound anyone; the story mattered for exactly that reason.",
+   "voices": [
+    {
+     "text": "mladonovice",
+     "sec": "arrest",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "richental",
+     "sec": "hus",
+     "n": [
+      1
+     ]
+    }
+   ]
+  }
+ ]
 }

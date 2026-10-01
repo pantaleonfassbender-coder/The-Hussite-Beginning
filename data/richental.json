@@ -1,0 +1,35 @@
+{
+ "titel": "Ulrich Richental's chronicle of the council",
+ "autor": "Ulrich Richental (c. 1360–1437), citizen of Constance",
+ "jahr": "c. 1420",
+ "orig_sprache": "de",
+ "pg_label": "Buck p.",
+ "quelle": "Ulrichs von Richental Chronik des Constanzer Concils 1414 bis 1418, ed. M. R. Buck (Tübingen: Litterarischer Verein in Stuttgart, 1882), pp. 58 and 79–80. Internet Archive, ulrichsvonriche00richgoog. Public domain.",
+ "hinweis": "Richental wrote in German for his town, some years after the council, from what he saw and heard 'from house to house'. Buck prints the Aulendorf manuscript; the text was read against the page images. Two excerpts; cuts are marked [...]. The English is this site's working translation (CC0).",
+ "sections": [
+  {
+   "id": "hus",
+   "zk": "Richental",
+   "titel": "Hus in the Constance chronicle",
+   "blurb": "A citizen of Constance tells the arrest and the sentence as the town saw them: an attempted escape in a haycart, and the king handing the condemned man to the elector palatine.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "58",
+     "titel": "In the haycart",
+     "orig": "Und also uff den tag glich um den imbiß, do hatt sich maister Hanns Huß von Behem gelait in ain wagen in siner herberg, der was des Lactschenbocks, ains ritters ze Behem, der was ze herberg in der Pfistrinen hus an sant Pauls gassen. Und nam zů im ain fläschli mit win und ain wißbrott. Derselbig wagen wolt nach imbiß gefaren sin in das gő umb strou und umb hő und maint also von Costentz ze komen widerum gen Behem. Do man nun über tisch kam und man sin irret, do luff von stunt an derselbig ritter Lactschenbock und mit im ain ritter mit namen Kolenbrat, och von Behem, die [XCI] dann den Hussen her ußher Behem bracht hattend, für den burgermaister, herr Hainrichen von Ulm und klegten im, das der burgermaister hieß von stund an alle tor beschließen und menglich gewaupet kommen [hieß] uff den obern marckt, das och beschach. Und do die also hieltend und geordnott ward, wa jeglicher hin solt riten, do ward er funden in dem wagen und sprach Lactschenbock der ritter zů im: „Maister Hanns, warumb haben ir üwer gelait selber brochen“? Und glich umb vesperzit, do fůrt derselbig Latschenbock und der Kolenbrat denselben Hussen uf den obern hof für die pfaltz und gaben in da baupst Johansen, und luffen inn nach mer dann xii tusend menschen durch wonders willen. Der baupst leit inn do gefangen in die pfaltz. Do lag er acht tag. Darnach do ward er gelait zů den predigern, da lag er biß er verbrennet ward.",
+     "en": "And so on that day, just at the midday meal, Master Hanns Huss of Bohemia had laid himself in a cart at his lodging, which was that of Latzembock, a knight of Bohemia, who lodged in the Pfister woman's house in St Paul's street. And he took with him a little flask of wine and a white loaf. The same cart was to drive out after the meal into the country for straw and hay, and so he meant to get from Constance back to Bohemia. Now when they rose from table and missed him, the same knight Latzembock at once ran, and with him a knight named Kolenbrat, also of Bohemia, who had brought Huss here out of Bohemia, to the burgomaster, Lord Heinrich of Ulm, and told him; and the burgomaster at once had all the gates shut and everyone come armed to the upper market, which was done. And while they held there and it was being ordered where each should ride, he was found in the cart, and the knight Latzembock said to him: 'Master Hanns, why have you broken your safe conduct yourself?' And about vesper time the same Latzembock and Kolenbrat led Huss to the upper court before the palace and gave him there to Pope John; and more than twelve thousand people ran after him to see the wonder. The pope had him held prisoner in the palace. There he stayed eight days. Afterwards he was taken to the Preachers, and there he stayed until he was burned.",
+     "note": "Richental, a citizen of Constance, tells as fact the story Hus's own party called a false rumour (Mlad. Arrest [1]): that Hus tried to leave in a haycart and so broke the safe conduct himself. He places it on Laetare Sunday (10 March 1415), months after the arrest of 28 November 1414. 'Latzembock' is Henry Lacembok, one of the knights who escorted Hus. The story served the council's side: a man who had fled had forfeited the king's protection. The Compare page sets the two accounts side by side."
+    },
+    {
+     "n": 2,
+     "pg": "79–80",
+     "titel": "The king hands him over",
+     "orig": "Uff samßtag nach sant Uolrichs tag, an dem achtenden tag im höwat, anno MCCCCXV und do ward aber ain session. Und was unßer herr der küng och daby, och hertzog Ludwig von Payern, von Haidelberg und ander vil weltlicher fürsten und herren [...]. Do ward besendet maister Hanns Huß von Behem, der ketzer. [...] Do nun das vorgieng, do gaben sy ain urtail über inn, also: Der wär ain kätzer und ainer der gestraft solt werden umb sin boßhait. Und empfalhen inn dem weltlichen rechten und batend unßern herren den küng, und das weltlich recht, das man inn nit tötet und inn sust behielt. Do sprach der küng zů hertzog Ludwigen: „Sid ich der bin, der das weltlich schwert innhaltet, lieber öham hertzog Ludwig, unßer und des hailgen römschen richs kurfürst und unßer ertztruchsäß, so nement inn und tůnd im als ainem kätzer, an unßer statt.“",
+     "en": "On the Saturday after St Ulrich's day, on the eighth day of July, in the year 1415, there was again a session. And our lord the king was there too, and Duke Ludwig of Bavaria, of Heidelberg, and many other secular princes and lords [...]. Then Master Hanns Huss of Bohemia, the heretic, was sent for. [...] When that had taken place, they gave judgment on him thus: that he was a heretic and one who should be punished for his wickedness. And they committed him to the secular law, and asked our lord the king, and the secular law, that he should not be killed but kept in some other way. Then the king said to Duke Ludwig: 'Since I am the one who holds the secular sword, dear kinsman Duke Ludwig, elector of us and of the holy Roman empire and our arch-steward, take him and do with him as with a heretic, in our stead.'",
+     "note": "Richental's date is off: the session was on Saturday 6 July 1415 (St Ulrich's day is 4 July). The plea that the condemned should not be killed was the canonical formula with which the Church handed a heretic to the secular power; Richental reports it without comment. The king's words agree with Mladoňovice's 'Vade, accipe eum' (Mlad. Sentence [3]). The cut describes the sermon of a Paris master and the degradation."
+    }
+   ]
+  }
+ ]
+}

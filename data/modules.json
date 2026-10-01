@@ -39,16 +39,17 @@
    "kurz": "Hus, De ecclesia (1413)",
    "zk": "De eccl.",
    "warum": "Five passages from the book the council drew its articles from, in David Schaff's English (1915), read against the page images: the Church of the predestined, Christ nearer than a pope two thousand miles away, the avaricious pope as 'the vicar of Judas', 'to rebel against an erring pope is to obey Christ', and 'no superior is above correction'."
+  },
+  {
+   "id": "richental",
+   "datei": "richental",
+   "side": "council",
+   "kurz": "Ulrich Richental's chronicle of the council",
+   "zk": "Richental",
+   "warum": "The Constance citizen's German chronicle (Buck 1882), read against the page images with a working translation: Hus caught in a haycart, 'why have you broken your safe conduct yourself?', and the king handing the condemned man over 'in our stead'."
   }
  ],
  "planned": [
-  {
-   "id": "richental",
-   "side": "council",
-   "kurz": "Ulrich Richental's chronicle of the council",
-   "warum": "A citizen of Constance watches the council come to his town: the pope's flight, the arrival of the Bohemian, the burning outside the walls, in German.",
-   "quelle": "Ulrichs von Richental Chronik des Constanzer Concils 1414 bis 1418, ed. M. R. Buck (Tübingen 1882)."
-  },
   {
    "id": "kutnahora",
    "side": "crown",
