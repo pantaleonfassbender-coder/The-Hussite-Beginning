@@ -22,6 +22,28 @@
      ]
     }
    ]
+  },
+  {
+   "id": "verdict",
+   "titel": "Was Hus heard and convicted?",
+   "frage": "The council's letter to the barons of Bohemia, and the barons' answer five weeks later.",
+   "note": "The council writes that Hus was heard many times, in public and before the king, that he confessed absurd beliefs and was convicted of open heresy, and that it tried in charity to save him. The lords answer that he was condemned 'not confessed, nor lawfully convicted', on the word of the kingdom's enemies. Both speak the language of procedure; the question between them was whether refusing to abjure what one denies having taught is obstinacy.",
+   "voices": [
+    {
+     "text": "council",
+     "sec": "letter",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "lords",
+     "sec": "protest",
+     "n": [
+      1
+     ]
+    }
+   ]
   }
  ]
 }

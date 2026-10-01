@@ -1,5 +1,5 @@
 {
- "credit": "Plates: illuminations from the Wenceslas Bible (Vienna), Ulrich Richental's chronicle (Konstanz, Rosgartenmuseum), the Martinice Bible and the Jena Codex (Prague), and a notarial instrument of 1414 (Prague); public-domain reproductions via Wikimedia Commons, resized for this site.",
+ "credit": "Plates: illuminations from the Wenceslas Bible (Vienna), Ulrich Richental's chronicle (Konstanz, Rosgartenmuseum), the Martinice Bible and the Jena Codex (Prague), a notarial instrument of 1414 (Prague), and a wood engraving from Zap's Česko-moravská kronika (1868); public-domain reproductions via Wikimedia Commons, resized for this site.",
  "lede": "The king, the council, the condemned man and the captain, as painters of the fifteenth century saw them. Each plate names its source; the caption points to the passage it belongs with. The burning itself is not shown.",
  "plates": [
   {
@@ -29,6 +29,13 @@
    "titel": "The degradation and the way out of the city",
    "caption": "Above, bishops strip Hus of his priestly vestments; the inscription reads 'de degradacione Husso'. Below, wearing the paper crown painted with devils, he is led out of Constance among armed men. The chronicle's next picture shows the burning, which this site does not reproduce. Mladoňovice tells the degradation (Mlad. Sentence [2]); Richental the handing over (Richental [2]).",
    "source": "Ulrich Richental, Chronicle of the Council of Constance, Konstanz, Rosgartenmuseum, Hs. 1, fol. 57v, c. 1460–1465; via Wikimedia Commons."
+  },
+  {
+   "id": "seals",
+   "side": "reception",
+   "titel": "The lords hang their seals",
+   "caption": "A nineteenth-century picture of 2 September 1415: lords at a table in a Gothic hall hang their seals on the letter of complaint. Its Czech caption reads 'The lords at the diet hang their seals on the letter of complaint over the burning of Hus, 1415'. It is how the national history of the 1860s saw the protest: as the nobility of the land standing together. The letter itself went to Constance in eight copies under 452 seals (Protest [3]).",
+   "source": "Wood engraving after Antonín König, in K. V. Zap, Česko-moravská kronika (Prague: Kober, 1868), p. 700; via Wikimedia Commons (public domain)."
   },
   {
    "id": "martinice",

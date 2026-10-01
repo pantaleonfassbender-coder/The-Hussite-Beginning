@@ -55,16 +55,17 @@
    "kurz": "Ulrich Richental's chronicle of the council",
    "zk": "Richental",
    "warum": "The Constance citizen's German chronicle (Buck 1882), read against the page images with a working translation: Hus caught in a haycart, 'why have you broken your safe conduct yourself?', and the king handing the condemned man over 'in our stead'."
+  },
+  {
+   "id": "lords",
+   "datei": "lords",
+   "side": "hussites",
+   "kurz": "The protest of the Bohemian lords (2 September 1415)",
+   "zk": "Protest",
+   "warum": "The letter of the lords of Bohemia and Moravia to the council under 452 seals, from Palacký's Documenta (1869), read against the page images with a working translation: Hus 'a good, just and catholic man', condemned unconfessed and unconvicted; whoever calls Bohemia heretical lies on his own head, King Sigismund excepted; and the preachers of the law of Christ to be defended 'even to the shedding of blood'."
   }
  ],
  "planned": [
-  {
-   "id": "lords",
-   "side": "hussites",
-   "kurz": "The protest of the Bohemian lords (2 September 1415)",
-   "warum": "Four hundred and more lords of Bohemia and Moravia seal a letter to the council: Hus was a good and just man, and his death a wrong done to the kingdom.",
-   "quelle": "Palacký, Documenta (1869)."
-  },
   {
    "id": "jerome",
    "side": "reception",
