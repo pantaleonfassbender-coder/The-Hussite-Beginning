@@ -23,7 +23,7 @@ A **Compare** page sets the voices side by side on four questions: the haycart (
 
 The Texts page lists what is not carried, with the reason (`data/modules.json`): the Latin of *De ecclesia* (in copyright), Hus's Czech writings (by choice), von der Hardt's acts (no usable scan), the descriptions of the burnings (by choice), and the wars after July 1420, which belong to the companion site.
 
-The companion game *Salvus conductus* takes its title from Sigismund's letter of safe conduct.
+The companion game [*Salvus conductus*](https://salvus-conductus.netlify.app/) takes its title from Sigismund's letter of safe conduct; its first role, Jan Hus (1412–1415), is playable as prototype 0.
 
 ## Citation
 

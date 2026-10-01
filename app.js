@@ -65,7 +65,7 @@ function overview() {
     <div class="panel"><h3>How did Prague answer?</h3>
       <p>With the chalice for the laity, a protest sealed by more than four hundred lords (<a href="#/text/lords/protest/1">Protest [1]</a>), the defenestration of 30 July 1419 (<a href="#/text/brezova/y1419/2">Laur. 1419 [2]</a>), the Four Articles of Prague (<a href="#/text/brezova/articles/1">Laur. Articles [1]</a>), and Jan Žižka's fort on the hill of Vítkov (<a href="#/text/brezova/vitkov/3">Laur. Vítkov [3]</a>). What followed, the field armies of 1421–1434, is the subject of the companion site <a href="https://the-hussite-field-armies.netlify.app/">The Hussite Field Armies</a>.</p></div>
     <div class="panel"><h3>Can the story be played?</h3>
-      <p>A companion game, <em>Salvus conductus</em>, is in preparation: as Jan Hus you decide what to recant and what to die for; as Jan Žižka you hold Prague against the crusade. Its cards will cite the passages carried here.</p></div>
+      <p>A companion game, <a href="https://salvus-conductus.netlify.app/"><em>Salvus conductus</em></a>: as Jan Hus, 1412–1415, you decide whether to go to Constance, what to say before the council and what to recant, and a recantation does not guarantee your life. Its cards cite the passages carried here. A second role, Jan Žižka, is planned.</p></div>
   </div>`;
 }
 
