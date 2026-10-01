@@ -31,16 +31,17 @@
    "kurz": "The council's decrees: Haec sancta and the sentence",
    "zk": "Decr.",
    "warum": "From Mansi's collection (1784), read against the page images with a working translation: Haec sancta, by which the council claimed its power immediately from Christ (6 April 1415); the sentence of 6 July 1415 against Hus as 'Wyclif's disciple' and 'a true and manifest heretic'; and five of the thirty condemned articles."
+  },
+  {
+   "id": "deecclesia",
+   "datei": "deecclesia",
+   "side": "reform",
+   "kurz": "Hus, De ecclesia (1413)",
+   "zk": "De eccl.",
+   "warum": "Five passages from the book the council drew its articles from, in David Schaff's English (1915), read against the page images: the Church of the predestined, Christ nearer than a pope two thousand miles away, the avaricious pope as 'the vicar of Judas', 'to rebel against an erring pope is to obey Christ', and 'no superior is above correction'."
   }
  ],
  "planned": [
-  {
-   "id": "deecclesia",
-   "side": "reform",
-   "kurz": "Hus, De ecclesia (1413)",
-   "warum": "The treatise from which the council drew most of the articles it condemned: what the Church is, and why a pope who does not follow Christ is not its head.",
-   "quelle": "Historia et monumenta Ioannis Hus atque Hieronymi Pragensis (Nuremberg 1558/1715); English: De ecclesia. The Church, tr. D. S. Schaff (New York 1915). Excerpts."
-  },
   {
    "id": "richental",
    "side": "council",
